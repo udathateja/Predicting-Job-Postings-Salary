@@ -40,9 +40,9 @@
 - Evaluating Our Machine Learning Models
 
 <br><br>
-**Python Code** <a href="https://github.com/TatevKaren/Predicting-Jop-Postings-Salary/tree/main/Code"> here</a>
+**Python Code** <a href="https://github.com/udathateja/Predicting-Jop-Postings-Salary/tree/main/Code"> here</a>
 
-**Data** <a href="https://github.com/TatevKaren/Predicting-Jop-Postings-Salary/tree/main/Data"> here</a>
+**Data** <a href="https://github.com/udathateja/Predicting-Jop-Postings-Salary/tree/main/Data"> here</a>
 
 **Medium Blog Post** <a href="https://medium.com/@tatev-aslanyan/data-science-case-study-predicting-salaries-of-job-postings-e1cbb4e83054"> here</a>
 
