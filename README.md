@@ -44,8 +44,6 @@
 
 **Data** <a href="https://github.com/udathateja/Predicting-Jop-Postings-Salary/tree/main/Data"> here</a>
 
-**Medium Blog Post** <a href="https://medium.com/@tatev-aslanyan/data-science-case-study-predicting-salaries-of-job-postings-e1cbb4e83054"> here</a>
-
 <br><br>
 
 ![figure_boxplots](https://user-images.githubusercontent.com/76843403/209078751-5201e03b-d18c-4fa3-a866-6827908432da.png)
